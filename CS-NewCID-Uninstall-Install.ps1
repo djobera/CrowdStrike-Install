@@ -1,3 +1,4 @@
+# Testado em Windows 10 e 11
 # Defina variáveis
 $InstallerPath = "C:\temp\WindowsSensor.exe"
 $FullCorrectCID = "newCID-E2"
